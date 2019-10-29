@@ -10,3 +10,10 @@ Understanding how to use props and states on React.
 
 ## 😤production period
 Around 2 weeks.
+
+## App images
+![App image](https://raw.githubusercontent.com/EriMiwa/ravenous/master/public/AppImg03.png
+ "App image")
+ 
+![App image02](https://raw.githubusercontent.com/EriMiwa/ravenous/master/public/AppImg04.png
+ "App image02")
